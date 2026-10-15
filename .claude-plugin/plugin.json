@@ -1,0 +1,9 @@
+{
+  "name": "arch",
+  "description": "Investigate a software system and produce a source-grounded, navigable HTML explanation of its architecture.",
+  "author": {
+    "name": "Mike Beaumier",
+    "url": "https://github.com/Jollyhrothgar"
+  },
+  "repository": "https://github.com/Jollyhrothgar/personal_ai_config"
+}
