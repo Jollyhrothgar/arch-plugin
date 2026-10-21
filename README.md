@@ -11,8 +11,8 @@ It is about a kind of work rather than about you, so install it for the
 projects that need it:
 
 ```bash
-claude plugin marketplace add Jollyhrothgar/personal_ai_config
-claude plugin install arch@jollyhrothgar -s project
+claude plugin marketplace add Jollyhrothgar/arch-plugin
+claude plugin install arch@arch-plugin -s project
 ```
 
 To try a working copy without installing: `claude --plugin-dir .`
