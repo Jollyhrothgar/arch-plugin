@@ -1,0 +1,15 @@
+{
+  "name": "arch-plugin",
+  "description": "The arch Claude Code plugin, installable on its own.",
+  "owner": {
+    "name": "Mike Beaumier",
+    "url": "https://github.com/Jollyhrothgar"
+  },
+  "plugins": [
+    {
+      "name": "arch",
+      "source": "./",
+      "description": "Investigate a software system and produce a source-grounded, navigable HTML explanation of its architecture."
+    }
+  ]
+}
